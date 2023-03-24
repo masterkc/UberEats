@@ -1,0 +1,203 @@
+#title {
+    background-color: #fccd20;
+    margin-top: 2%;
+    margin-left: 3%;
+}
+
+
+
+body {
+
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.nav-item {
+    padding: 0px 10px;
+
+}
+
+.nav-link {
+    font-size: 1rem;
+    color: azure;
+
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.image-main {
+    width: 60%;
+    transform: rotate(25deg);
+    /* position: absolute; */
+    right: 30%;
+}
+
+
+.feature-box {
+    padding-right: 10%;
+    padding-bottom: 2%;
+
+
+
+}
+
+#features {
+    margin: 3% 3%;
+    background-color: #ffffff;
+
+}
+
+.content {
+    margin-bottom: 1%;
+    text-decoration: none;
+
+}
+
+img {
+    width: 140%;
+}
+
+h3 {
+    margin-bottom: 1%;
+    margin-top: 3%;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+.fixed-top {
+    width: 10%;
+    margin-left: 10%;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+
+}
+
+#testimonials {
+    background-color: #ef8172;
+    text-align: center;
+
+    color: azure;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.img-test {
+    border-radius: 100%;
+    width: 15%;
+
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 5%;
+    padding-top: 5%;
+
+}
+
+.press-img {
+    margin: 20px 20px 50px;
+    width: 15%;
+}
+
+h2 {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.social {
+    margin: 2% 0.5%;
+
+}
+
+#cities {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.map {
+    width: 100%;
+}
+
+
+.table-borderless {
+    margin-top: 2%;
+
+}
+
+.city-rows a {
+    text-decoration: none;
+}
+
+.link {
+    padding-left: 40%;
+    padding-top: 2%;
+}
+
+#countries {
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 0%;
+}
+
+.country-table {
+    margin-top: 0%;
+}
+
+.logoUber {
+    width: 20%;
+    margin-bottom: 10%;
+}
+
+#last {
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+.logostore {
+    width: 20%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.help a:hover{
+    text-decoration: underline;
+}
+#social {
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 2%;
+}
+.fa-brands{
+    margin: 2%;
+    
+}
+.lastsocial a,span{
+    margin: 1%;
+    }
+.lastsocial {
+    text-align: right;
+}
